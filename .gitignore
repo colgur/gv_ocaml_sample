@@ -1,0 +1,9 @@
+# dependency info
+.omakedb*
+
+# cache files
+*.omc
+
+# intermediates
+*.cm*
+*.o
